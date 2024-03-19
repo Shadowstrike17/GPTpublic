@@ -1,3 +1,3 @@
-# GPTpublic
-gpt public is to get chatgpt (and other stuff) for free no acount needed!
-(still in beta) but will be relesed in 1-2 weeks
+# GPT Public
+
+GPT Public is a platform to access ChatGPT and other features for free, without needing an account! It's currently in beta, but it's scheduled for release in 1-2 weeks.
